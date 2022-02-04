@@ -120,6 +120,23 @@
       "image":"https://www.cncf.io/wp-content/uploads/2018/08/LT8f_Z5X_400x400.jpg"
    },
    {
+      "name":"Palak Bhogra",
+      "bio":"Palak is a Cloud Enthusiast who is passionate about Cloud Technologies. She is known for being an AWS Educate Cloud Student Ambassador at AWS, and open-source contribution in different communities.",
+      "company":"Independent",
+      "pronouns":"She/Her",
+      "linkedin":"https://www.linkedin.com/in/palak-bhogra-8b92791bb",
+      "twitter":"https://twitter.com/PalakB1557",
+      "github":"https://github.com/palak2002",
+      "wechat":"",
+      "website":"",
+      "youtube":"",
+      "priority":"",
+      "category":[
+         "Ambassadors"
+      ],
+      "image":"palakbhogra.jpg"
+   },   
+   {
       "name":"Amy Benson",
       "bio":"Amy has been an Event Manager for The Linux Foundation since 2015, working with various Foundation Collaborative Projects. Since 2016, she has managed and executed numerous aspects of CNCF's KubeCon + CloudNativeCon events, including venue selection and oversight, creative development of graphics, and audiovisual logistics.\n\nAmy has over 10 years of experience producing and managing conferences, trade shows, incentive programs, and meetings in both the corporate and non-profit sectors. She holds a Bachelor of Science in Journalism from the University of Oregon and received her CMP (Certified Meeting Professional) accreditation in 2014.",
       "company":"Event Manager",
